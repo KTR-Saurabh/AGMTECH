@@ -1,0 +1,8 @@
+﻿{
+  "name": "AGMTECH Career Technologies Pvt Ltd",
+  "short_name": "AGMTECH",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F6F1E7",
+  "theme_color": "#1B2A4A"
+}
