@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="AGMTECH">
+  <rect width="64" height="64" fill="#F6F1E7"/>
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#1B2A4A" stroke-width="4"/>
+  <text x="32" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1B2A4A">AG</text>
+</svg>

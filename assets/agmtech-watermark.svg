@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" aria-hidden="true">
+  <g fill="none" stroke="#1B2A4A">
+    <path d="M190 45 330 94v108c0 101-63 158-140 190C113 360 50 303 50 202V94Z" stroke-width="12"/>
+    <path d="m118 196 58 58 94-106" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="380" y="230" fill="#1B2A4A" font-family="Georgia, 'Times New Roman', serif" font-size="145" font-weight="700" letter-spacing="10">AGMTECH</text>
+  <text x="388" y="300" fill="#1B2A4A" font-family="'Courier New', monospace" font-size="40" letter-spacing="16">CAREER TECHNOLOGIES</text>
+</svg>

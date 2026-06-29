@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">AGMTECH Career Technologies Logo</title>
+  <desc id="desc">AGMTECH Career Technologies Pvt Ltd logo mark</desc>
+  <rect width="1200" height="330" rx="18" fill="#111111"/>
+  <g transform="translate(42 66)">
+    <path d="M112 0 220 38v84c0 77-49 122-108 148C53 244 4 199 4 122V38Z" fill="#8491ad" stroke="#e66f63" stroke-width="8"/>
+    <path d="m60 118 46 46 72-82" fill="none" stroke="#c9c5ae" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="300" y="140" fill="#e8eef9" font-family="Georgia, 'Times New Roman', serif" font-size="104" font-weight="700" letter-spacing="8">AGM</text>
+  <text x="598" y="140" fill="#ff9a91" font-family="Georgia, 'Times New Roman', serif" font-size="104" font-weight="700" letter-spacing="8">TECH</text>
+  <line x1="300" y1="165" x2="1115" y2="165" stroke="#b9b28e" stroke-width="3"/>
+  <text x="300" y="218" fill="#bfe3cf" font-family="'Courier New', monospace" font-size="32" letter-spacing="12">CAREER TECHNOLOGIES</text>
+  <text x="300" y="270" fill="#b6b6b6" font-family="'Courier New', monospace" font-size="18" letter-spacing="7">PVT. LTD.</text>
+</svg>
